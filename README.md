@@ -15,7 +15,7 @@ Absolwent studiów podyplomowych **Machine Learning & Data Science**, który ł�
 
 
 ### 📫 Kontakt:
-- **LinkedIn:** [Twój Link - warto dodać!](https://www.linkedin.com)
+- **LinkedIn:** (https://pl.linkedin.com/in/tomasz-szarek-a7813a359)
 - **E-mail:** [thomas70283@hotmail.com]
 
 ---
